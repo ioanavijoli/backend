@@ -1,5 +1,7 @@
 {
   "User": {
     "title": { "string": {} }
+    "nu": { "string": {} }
+
   }
 }
